@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm İrem
 
-<!--
-**iremgoreci/iremgoreci** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Engineering student at Ankara University.
 
-Here are some ideas to get you started:
+I'm currently focusing on backend development with Python,
+FastAPI and PostgreSQL.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+### CycleInsight
+A menstrual tracking and health analysis application.
+Currently working on the backend side of the project.
+
+[Repository](https://github.com/iremgoreci/CycleInsight)
+
+### Pasha
+A fictional pet food brand website developed for the
+Introduction to Web Based Programming course.
+
+Built with HTML, CSS and JavaScript.
+
+[Repository](https://github.com/iremgoreci/pasha) ·
+[Live Demo](https://iremgoreci.github.io/pasha/)
+
+## Technologies
+
+Python · C · Java · FastAPI · PostgreSQL · MySQL · Git · GitHub · Linux
